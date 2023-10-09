@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Indecision Component Debe hacer match con el Snapshot 1`] = `
+<img src="https://via.placeholder.com/250">
+<div class="bg-dark"></div>
+<div class="indecision-container"><input type="text" placeholder="Hazme una pregunta">
+  <p>Recuerda termina con signo de interrogación (?)</p>
+  <!--v-if-->
+</div>
+<h1>Indecision</h1>
+`;
